@@ -5,8 +5,8 @@
 - 👋 Hi, I’m @Jaguariska
 - 👀 eu estou interessado em novas linguagens...
 - 🌱 eu estou aprendendo a programar  Javascript e scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on angolano
+- 📫 How to reach me? pega a primeira direta e segunda esquerda 
 
 <!---
 Jaguariska/Jaguariska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
